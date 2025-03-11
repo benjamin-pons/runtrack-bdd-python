@@ -11,14 +11,6 @@ owners.
 
 Type 'help;' or '\h' for help. Type '\c' to clear the current input statement.
 
-mysql> CREATE DATABASE <LaPlateforme>
-    -> ^C
-mysql> CREATE DATABASE <LAPLATEFORME>
-    ->
-    ->
-    -> ^C
-mysql> create database LaPlateforme
-    -> ^C
 mysql> create database LaPlateforme;
 Query OK, 1 row affected (0.07 sec)
 
